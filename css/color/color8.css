@@ -1,0 +1,232 @@
+body{
+	background-color: #1F1F1F;
+	background-repeat:repeat;
+	color:#8f8f8f;
+	}
+.loader-inner{
+	background-color:#1EEBE3;
+}	
+::selection {
+	color: #100e2d;
+	background: #1EEBE3;
+}
+a{
+color:#fff;
+}
+a:hover{
+color:#1EEBE3;
+}	
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+color:#e8e8f3;
+}
+.btn-default{
+color:#A8A8A8;
+}
+.apps_template_feature_tab ul li a p.apps_tab_heading{
+color:#A8A8A8;
+}
+.apps_template_feature_tab ul li a svg{
+fill:#A8A8A8;
+}
+.apps_header{
+background:#1EEBE3;
+}	
+.logo a span{
+color:#100e2d;
+}
+.logo a{
+color:#100e2d;
+}
+.logo a:hover{
+color:#100e2d;
+}
+.apps_menu ul li a {
+color: #100e2d;
+}
+.apps_menu ul li a:hover{
+color:#100e2d;
+}
+.apps_menu ul li a:after{
+color: #100e2d;
+}
+.slider_logo span {
+color: #1EEBE3;
+}
+.apps_divider span{
+background-color:#1F1F1F;
+color:#1EEBE3;
+}
+.apps_icon ul li a:hover {
+color: #1EEBE3;
+border-color: #1EEBE3;
+}
+.apps_icon ul li:hover:after{
+color: #1EEBE3;
+background-color:#1F1F1F;
+}
+.apps_template_feature_tab ul li:hover a p.apps_tab_heading{
+color:#1EEBE3;
+}
+.apps_template_feature_tab ul li:hover a svg {
+fill: #1EEBE3;
+}
+.apps_template_feature_tab ul li.active a svg {
+fill: #1EEBE3;
+}
+.apps_template_feature_tab ul li.active a p.apps_tab_heading {
+color: #1EEBE3;
+}
+.apps_template_feature_tab ul li.active:after {
+color: #1EEBE3;
+}
+.apps_portfolio ul li a{
+	color:#999999;
+}
+.apps_portfolio ul li a:after {
+color: #1EEBE3;
+}
+.apps_services:hover .icon {
+color: #1EEBE3;
+border-color: #1EEBE3;
+}
+.apps_services:hover .icon:after {
+color: #1EEBE3;
+background-color:transparent;
+}
+.apps_services:hover h4 {
+color: #1EEBE3;
+}
+.apps_services_horizontal:hover .icon {
+border-color: #1EEBE3;
+color: #1EEBE3;
+}
+.apps_services_horizontal:hover h4 {
+color: #1EEBE3;
+}
+.apps_services_horizontal:hover .icon:after {
+color: #1EEBE3;
+background-color:transparent;
+}
+.apps_services_horizontal .icon:before{
+color:#1EEBE3;
+border-right: 1px solid #C1C1C1;
+}
+.testimonials_q{
+color:#1EEBE3;
+}
+.apps_feature_list_item:hover > .icon {
+background: #1EEBE3;
+}
+.apps_feature_list_item:hover > .detail > h4 {
+color: #1EEBE3;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default{
+background-color: #1EEBE3;
+border-color: #1EEBE3;
+color:#100e2d;
+}
+.apps_logo a.btn:hover{
+color:#100e2d;
+}
+.apps_menu_toggle {
+background: #100e2d;
+}
+.apps_price_table .apps_table .table_head h3 {
+color: #1EEBE3;
+}
+.apps_price_table .apps_table .price_offer:after{
+color: #1EEBE3;
+background-color:#1F1F1F;
+-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+}
+.apps_price_table .apps_table:hover .price_offer:after{
+background-color:#1F1F1F;
+-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+}
+.apps_price_table .apps_table.active .price_offer:after{
+	background:#000;
+}
+.apps_price_table .apps_table a{
+background: #1EEBE3;
+color:#100e2d;
+}
+.apps_price_table .apps_table a:hover{
+	background: #1EEBE3;
+}
+.apps_input:before{
+color: #1EEBE3;
+background-color:#1F1F1F;
+}
+.apps_price_table .apps_table{
+border: 1px solid rgba(204, 204, 204, 0.6);
+}
+.apps_price_table .apps_table .price_offer li{
+border-bottom: 1px solid rgba(204, 204, 204, 0.19);
+}
+.apps_divider{
+background-color:#4A4A4A;
+}
+.apps_footer .logo a span{
+color:#1EEBE3;
+}
+.apps_footer .logo a:hover{
+color:#fff;
+}
+.apps_menu ul li.active {
+	border-bottom:2px solid #100e2d;
+	}
+@media (max-width: 767px) {
+.apps_template_feature_tab ul li.active a {
+border: 1px solid #1EEBE3;
+}
+}	
+
+
+
+
+	
+.logo a{
+	color:#000000;
+}	
+.apps_menu ul li.active a{
+	color:#000000;	
+}
+.slider_in_tab2 .carousel .carousel-indicators li.active {
+    background-color: #1EEBE3;
+}	
+.apps_portfolio ul li a.active {
+    color: #1EEBE3;
+}
+.apps_input textarea:hover, .apps_input textarea:focus,
+.apps_input input:hover, .apps_input input:focus{
+	border-color: #1EEBE3;
+}
+.contact_btn{
+    background-color: #1EEBE3;
+    border-color: #1EEBE3;	
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .btn-default:active:focus, .open .dropdown-toggle.btn-default, .btn-default:active:hover{
+    background-color: #1EEBE3;
+    border-color: #1EEBE3;		
+}			
+.btn-default.active:hover{
+	color: #A8A8A8;
+}
+.apps_logo a.btn.active{
+	color:#000000;
+}
+.apps_logo a.btn.active:hover{
+	color: #ffffff;
+}
+.apps_price_table .apps_table.active{
+	background-color:#000;
+}
+.btn-default.contact_btn{
+	color:#000000;
+}

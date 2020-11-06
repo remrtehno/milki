@@ -1,0 +1,139 @@
+::selection {
+	color: #FFF;
+	background: #0fd942;
+}
+.loader-inner{
+	background-color:#0fd942;
+}
+a:hover, a:focus{
+color: #0fd942;
+}
+.apps_header{
+background-color: #0fd942;
+}
+.logo a span {
+color: #fff;
+}
+.apps_menu ul li a{
+color: #fff;
+}
+.apps_menu ul li a:after{
+color: #fff;
+}
+.apps_price_table .apps_table a{
+background: #0fd942;
+}
+.apps_price_table .apps_table a:hover{
+background:#0fd942;
+}
+
+.slider_logo span {
+color: #0fd942;
+}
+.apps_divider span{
+color: #0fd942;
+}
+.apps_template_feature_tab ul li:hover a p.apps_tab_heading{
+color: #0fd942;
+}
+.apps_template_feature_tab ul li:hover a svg {
+fill: #0fd942;
+}
+.apps_template_feature_tab ul li.active a svg{
+fill: #0fd942;
+}
+.apps_template_feature_tab ul li.active a p.apps_tab_heading{
+color: #0fd942;
+}
+.apps_template_feature_tab ul li.active:after{
+color: #0fd942;
+}
+.apps_icon ul li:hover:after{
+color: #0fd942;
+}
+.apps_icon ul li a:hover{
+color: #0fd942;
+border-color: #0fd942;
+}
+.apps_feature_list_item:hover > .detail > h4{
+color: #0fd942;
+}
+.apps_feature_list_item:hover > .icon{
+background: #0fd942;
+}
+.apps_services:hover .icon{
+color: #0fd942;
+border-color: #0fd942;
+}
+.apps_services:hover .icon:after{
+color: #0fd942;
+}
+.apps_services:hover h4{
+color: #0fd942;
+}
+.apps_services_horizontal:hover .icon {
+border-color: #0fd942;
+color: #0fd942;
+}
+.apps_services_horizontal:hover .icon:after{
+color: #0fd942;
+}
+.apps_services_horizontal .icon:before{
+color: #0fd942;
+}
+.apps_services_horizontal:hover h4{
+color: #0fd942;
+}
+.testimonials_q{
+color: #0fd942;
+}
+.apps_price_table .apps_table .table_head h3{
+color: #0fd942;
+}
+.apps_price_table .apps_table .price_offer:after{
+color: #0fd942;
+}
+.apps_input:before{
+color: #0fd942;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default{
+background-color: #0fd942;
+border-color: #0fd942;
+}
+.apps_menu_toggle{
+background-color: #0fd942;
+}
+.apps_portfolio ul li a:after{
+color: #0fd942;
+}
+.apps_menu ul li.active {
+	border-bottom:2px solid #fff;
+	}
+
+
+	
+.logo a{
+	color:#FFFFFF;
+}	
+.apps_menu ul li.active a{
+	color:#FFFFFF;	
+}
+.slider_in_tab2 .carousel .carousel-indicators li.active {
+    background-color: #0fd942;
+}	
+.apps_portfolio ul li a.active {
+    color: #0fd942;
+}
+.apps_input textarea:hover, .apps_input textarea:focus,
+.apps_input input:hover, .apps_input input:focus{
+	border-color: #0fd942;
+}
+.contact_btn{
+    background-color: #0fd942;
+    border-color: #0fd942;	
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .btn-default:active:focus, .open .dropdown-toggle.btn-default, .btn-default:active:hover{
+    background-color: #0fd942;
+    border-color: #0fd942;		
+}			
