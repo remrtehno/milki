@@ -118,3 +118,6 @@ Primary use:	App Store
   background-color: none;
   background: none;
 }
+.apps_menu ul {
+    margin-top: 11px;
+}
