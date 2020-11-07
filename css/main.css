@@ -100,3 +100,21 @@ Primary use:	App Store
     margin-top: 177px;
     margin-bottom: 75px;
 }
+.app_form_wrapper {
+    margin-top: 0;
+}
+
+
+.apps_parallax_testimonials {
+    background: url(../images/products/photo_2020-11-06_15-22-52.jpg);
+}
+.apps_menu li:nth-child(2) {
+
+}
+.apps_footer {
+      background: #000000d4;
+}
+.apps_footer .apps_divider span {
+  background-color: none;
+  background: none;
+}
